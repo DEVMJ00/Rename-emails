@@ -1,4 +1,4 @@
-# Rename-emails
+# Rename-me
 ## 📨 Renommage automatique de fichiers `.msg` via une interface graphique (PowerShell)
 
 ## 📋 Description
@@ -36,9 +36,9 @@ Il est conçu pour automatiser le classement de courriels exportés, en leur app
 4. Dans la fenêtre :
 
 Choisissez le fichier à renommer
-Sélectionnez le type de document (1ere relance, devis, facture, etc.)
+Sélectionnez le type de document (1ere relance, demande de devis, facture, etc.)
 Cliquez sur `Renommer`
-Le fichier sera renommé avec la date du jour et le préfixe choisi (ex : 20250729_Devis.msg)
+Le fichier sera renommé avec la date du jour et le préfixe choisi (ex : 20250729_Facture.msg)
 
 ---
 ## 🚫 Limitations
